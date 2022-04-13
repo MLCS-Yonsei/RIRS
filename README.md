@@ -1,4 +1,4 @@
-# RIRS_ML_data
+# RIRS accelerometer measurement data
 Dataset and FFT code for the paper "A Warning System for Urolithiasis via Retrograde Intrarenal Surgery using Machine Learning"
 
 "./data/raw/" contains raw recorded .csv files.
